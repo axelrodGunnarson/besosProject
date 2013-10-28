@@ -1,0 +1,15 @@
+Interrupt Latency  SMP stressed kernel 2.6.29.6-rt24.
+
+	total number of samples ..........	 995190 samples
+
+	minimum value ....................	 13us
+	maximum value ....................	 51us
+
+	mean value .......................	 14.7228us
+	moda .............................	 14us
+	variance .........................	 4.7229us
+	standard deviation ...............	 2.1732us
+
+	samples above 50us ...............	 3 (.00030144%)
+	samples above 60us ...............	 0 (0%)
+	samples above 70us ...............	 0 (0%)
